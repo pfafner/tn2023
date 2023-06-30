@@ -35,12 +35,13 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
  **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
-  01      | 05.07.2023   | Introducción al curso. Historia de la aritmética.                         | Burton, secciones 1.1, 1.2.
+  01      | 04.07.2023   | Introducción al curso. Historia de la aritmética.                         | Burton, secciones 1.1, 1.2.
 
 
 # Seminarios
 <div id='id-seminarios'/>
 
+* Se indicarán más adelante.
 
 # Referencias
 <div id='id-ref'/>
