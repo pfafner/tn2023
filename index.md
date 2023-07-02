@@ -39,7 +39,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Seminarios
 <div id='id-seminarios'/>
 
-* Se indicarán más adelante.
+En el curso se desarrollarán dos seminarios, los cuales se indicarán más adelante.
 
 # Referencias
 <div id='id-ref'/>
