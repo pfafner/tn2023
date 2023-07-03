@@ -17,6 +17,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Programa del curso
 <div id='id-programa'/>
 
+[Programa del curso](programa/Programa-tn2023.pdf){:target="_blank"}
 
 ### Horario
 <div id='id-horario'/>
