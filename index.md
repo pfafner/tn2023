@@ -36,7 +36,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  -------- | ------------ | ------------------------------------------------------------------------- |  ---------------------------------
   01      | 04.07.2023   | Introducción al curso. Historia de la aritmética. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Burton, secciones 1.1, 1.2 y 2.1.
   02      | 07.07.2023   | Divisibilidad. Propiedades.  | Burton, sección 2.2.
-  L1      | 07.07.2023   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 14 de julio.**
+  L1      | 07.07.2023   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: Martes 18 de julio.**
 
 
 # Seminarios
