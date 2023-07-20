@@ -38,8 +38,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   02      | 07.07.2023   | Divisibilidad. Propiedades. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Burton, sección 2.2.
   L1      | 07.07.2023   |  | [Lista 01](listas/lista01.pdf){:target="_blank"} <br/> **Fecha de Entrega: Martes 18 de julio.**
   03      | 11.07.2023   | Algoritmo de la División. MDC y MMC. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3.
-  04      | 14.07.2023   | Lema de Bézout. Algoritmo de Euclides. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, sección 2.3.
+  04      | 14.07.2023   | Lema de Bézout. Algoritmo de Euclides. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4.
   L2      | 16.07.2023   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 28 de julio.**
+  05      | 18.07.2023   | La ecuación xa + yb = c.  | Burton, sección 2.5.
   
 
 # Seminarios
