@@ -40,7 +40,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   03      | 11.07.2023   | Algoritmo de la División. MDC y MMC. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Burton, sección 2.3.
   04      | 14.07.2023   | Lema de Bézout. Algoritmo de Euclides. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Burton, secciones 2.3 y 2.4.
   L2      | 16.07.2023   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 28 de julio.**
-  05      | 18.07.2023   | La ecuación xa + yb = c.  | Burton, sección 2.5.
+  05      | 18.07.2023   | La ecuación xa + yb = c. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Burton, sección 2.5.
   
 
 # Seminarios
