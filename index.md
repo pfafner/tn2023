@@ -42,7 +42,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L2      | 16.07.2023   |  | [Lista 02](listas/lista02.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 28 de julio.**
   05      | 18.07.2023   | La ecuación xa + yb = c. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Burton, sección 2.5.
   06      | 21.07.2023   | El Teorema Fundamental de la Aritmética. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Burton, sección 3.1.
-  07      | 24.07.2023   | Números primos. Propiedades. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Burton, secciones 3.2 y 3.3.
+  07      | 25.07.2023   | Números primos. Propiedades. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Burton, secciones 3.2 y 3.3.
+  08      | 27.07.2023   | Ternas pitagóricas. <br/>  | Stillwel.
   
 
 # Seminarios
