@@ -45,7 +45,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   07      | 25.07.2023   | Números primos. Propiedades. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Burton, secciones 3.2 y 3.3.
   08      | 27.07.2023   | Ternas pitagóricas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Stillwell, secciones 1.6 y 1.7.
   09      | 28.07.2023   | Solución de la Lista 1 y Lista 2.  |  
-  .       |              |   |  
+  10      |              | Congruencias.  |  
   
 
 # Seminarios
