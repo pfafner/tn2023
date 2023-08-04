@@ -46,6 +46,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   08      | 27.07.2023   | Ternas pitagóricas. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Stillwell, secciones 1.6 y 1.7.
   09      | 28.07.2023   | Solución de la Lista 1 y Lista 2.  |  
   10      | 01.08.2023   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Burton, sección 4.1.
+  11      | 03.08.2023   | Cancelación Modular. Ejemplos de uso de congruencias. <br/> | Repasar su teoría de grupos finitos.
   
 
 # Seminarios
