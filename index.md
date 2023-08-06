@@ -47,7 +47,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   09      | 28.07.2023   | Solución de la Lista 1 y Lista 2.  |  
   10      | 01.08.2023   | Congruencias. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Burton, sección 4.1.
   11      | 03.08.2023   | Cancelación Modular. Ejemplos de usos de congruencias. <br/> | Repasar su teoría de grupos finitos.
-  12      | 04.08.2023   | Representación en bases. Potenciación modular. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} |
+  12      | 04.08.2023   | Representación en bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"} |
   L3      | 04.08.2023   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 18 de agosto.**
   13      |              | Criterios de divisibilidad.  | 
   
