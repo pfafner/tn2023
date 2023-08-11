@@ -50,7 +50,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   12      | 04.08.2023   | Representación en bases. Potenciación modular. [Aula 10](aulas/Aula10.pdf){:target="_blank"} |
   L3      | 04.08.2023   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 18 de agosto.**
   13      | 08.08.2023   | Criterios de divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | **Nota:** Falta completar pruebas del teorema para construir criterios. 
-  
+  14      |             |  | 
+
 
 # Seminarios
 <div id='id-seminarios'/>
