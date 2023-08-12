@@ -51,6 +51,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L3      | 04.08.2023   |  | [Lista 03](listas/lista03.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 18 de agosto.**
   13      | 08.08.2023   | Criterios de divisibilidad. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | **Nota:** Falta completar pruebas del teorema para construir criterios. 
   14      | 10.08.2023   | El anillo de enteros módulo n. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, sección 4.2.
+  15      | 11.08.2023   | Unidades módulo n. La función $\varphi$ de Euler. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, sección 4.3.
 
 
 # Seminarios
