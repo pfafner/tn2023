@@ -53,6 +53,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   14      | 10.08.2023   | El anillo de enteros módulo n. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Burton, sección 4.2.
   15      | 11.08.2023   | Unidades módulo n. La función totiente de Euler. [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Burton, sección 4.3.
   16      | 17.08.2023   | El Teorema de Euler. El pequeño teorema de Fermat. [Aula 14a](aulas/Aula14a.pdf){:target="_blank"} | Burton. 
+  17      | 18.08.2023   | Aplicaciones del Teorema de Fermat. El Test de primalidad de Fermat. [Aula 14b](aulas/Aula14b.pdf){:target="_blank"} | Burton. 
 
 
 # Seminarios
