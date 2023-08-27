@@ -57,7 +57,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   18      | 22.08.2023   | Solución de congruencias lineales. | Burton, sección 4.4. 
   L4      | 22.08.2023   |  | [Lista 04](listas/lista04.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 1 de septiembre.**
   19      | 24.08.2023   | Sistemas lineales de congruencias. | Burton, sección 4.4. 
-  20      | 24.08.2023   | El Teorema chino del residuo. | Burton, sección 4.4. 
+  20      | 25.08.2023   | El Teorema chino del residuo. | Burton, sección 4.4. 
   
 
 
