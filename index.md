@@ -62,7 +62,6 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   22      | 01.09.2023   | Solución de la Lista 3 y Lista 4.  |  
   23      | 05.09.2023   | Congruencias cuadráticas. Símbolo de Legendre. |  
   24      | 07.09.2023   | Lema de Gauss. <br/>  |   
-  .       |              |     |  
 
 
 # Seminarios
