@@ -60,8 +60,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   20      | 25.08.2023   | El Teorema chino del residuo. | Burton, sección 4.4. 
   21      | 31.08.2023   | Solución de sistemas lineales de congruencias, caso general. <br/>  | 
   22      | 01.09.2023   | Solución de la Lista 3 y Lista 4.  |  
-  23      | 05.09.2023   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} |  
-  24      | 07.09.2023   | Lema de Gauss. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |   
+  23      | 05.09.2023   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2. 
+  24      | 07.09.2023   | Lema de Gauss. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3.  
 
 
 # Seminarios
