@@ -61,7 +61,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   21      | 31.08.2023   | Solución de sistemas lineales de congruencias, caso general. <br/>  | 
   22      | 01.09.2023   | Solución de la Lista 3 y Lista 4.  |  
   23      | 05.09.2023   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} |  
-  24      | 07.09.2023   | Lema de Gauss. <br/>  |   
+  24      | 07.09.2023   | Lema de Gauss. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |   
 
 
 # Seminarios
