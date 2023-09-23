@@ -63,7 +63,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   23      | 05.09.2023   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2. 
   24      | 07.09.2023   | Lema de Gauss. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3.  
   25      | 19.09.2023   | Ley de reciprocidad cuadrática. <br/>| Burton, sección 9.3.  
-  26      | 21.09.2023   | Solución de congruencias cuadráticas. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Burton, sección 9.3.  
+  26      | 21.09.2023   | Solución de congruencias cuadráticas. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Burton, sección 9.3.   27      | 22.09.2023   | Congruencias de orden superior. Lema de Hensel.  | Niven-Zuckerman, sección 2.6.
 
 
 # Seminarios
