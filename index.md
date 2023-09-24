@@ -69,19 +69,19 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Seminarios
 <div id='id-seminarios'/>
 
-En el curso se desarrollarán dos seminarios, los cuales se indicarán más adelante.
+## Temas para el seminario 1:
 
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------- |  ------------------------------
-  1        | 03.10.2023   | Burton, sección 15.2 -- Fracciones continuas <br/> Páginas 306-311 <br/> Hasta el Teorema 15.2, Ejemplos
-  2        | 05.10.2023   | Burton, sección 15.2 -- Fracciones continuas <br/> Páginas 311-317 <br/> Teoremas 15.3 y 15.4 
-  3        | 06.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 319-324 <br/> Teoremas 15.5, 15.6 y Corolario 
-  4        | 06.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 324-328 <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 
-  5        | 10.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 330-332 <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos 
-  6        | 12.10.2023   | Burton, sección 15.4 -- Fracciones de Farey <br/> Páginas 334-337 <br/> 
-  7        | 13.10.2023   | Moreira et al. --  Ecuaciones Diofantinas I <br/> Ecuación de Legendre <br/> 
-  8        | 17.10.2023   | Stillwell, capítulo 5 --  Ecuaciones Diofantinas II <br/> Ecuación de Pell <br/> 
-  9        | 19.10.2023   | Stillwell, capítulo 8 -- Ecuaciones Diofantinas III <br/> Sumas de Cuadrados <br/> 
+  1        | 03.10.2023   | Fracciones continuas <br/> Hasta el Teorema 15.2, Ejemplos | Burton, sección 15.2 <br/> Páginas 306-311 
+  2        | 05.10.2023   | Fracciones continuas <br/> Teoremas 15.3 y 15.4 | Burton, sección 15.2 <br/> Páginas 311-317 
+  3        | 06.10.2023   | Fracciones continuas infinitas <br/> Teoremas 15.5, 15.6 y Corolario | Burton, sección 15.3 <br/> Páginas 319-324 
+  4        | 06.10.2023   | Fracciones continuas infinitas <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 | Burton, sección 15.3 <br/> Páginas 324-328 
+  5        | 10.10.2023   | Fracciones continuas infinitas <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos | Burton, sección 15.3 <br/> Páginas 330-332   
+  6        | 12.10.2023   | Fracciones de Farey <br/> Toda la sección | Burton, sección 15.4 <br/> Páginas 334-337 
+  7        | 13.10.2023   | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> 
+  8        | 17.10.2023   | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/>  
+  9        | 19.10.2023   | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> 
   
   
 # Referencias
