@@ -79,20 +79,10 @@ En el curso se desarrollarán dos seminarios, los cuales se indicarán más adel
   4        | 06.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 324-328 <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 
   5        | 10.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 330-332 <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos 
   6        | 12.10.2023   | Burton, sección 15.4 -- Fracciones de Farey <br/> Páginas 334-337 <br/> 
+  7        | 13.10.2023   | Moreira et al. --  Ecuaciones Diofantinas I <br/> Ecuación de Legendre <br/> 
+  8        | 17.10.2023   | Stillwell, capítulo 5 --  Ecuaciones Diofantinas II <br/> Ecuación de Pell <br/> 
+  9        | 19.10.2023   | Stillwell, capítulo 8 -- Ecuaciones Diofantinas III <br/> Sumas de Cuadrados <br/> 
   
-
-7. Ecuaciones Diofantinas I: Ecuación de Legendre	13.10.2023
-   Sumas de Cuadrados.
-   Diapositivas.
-
-8. Ecuaciones Diofantinas II: Ecuación de Pell		17.10.2023
-   Sumas de Cuadrados.
-   Stillwell, capítulo 5
-
-9. Ecuaciones Diofantinas III: Sumas de Cuadrados	19.10.2023
-   Problema de Waring
-   Stillwell, capítulo 8
-
   
 # Referencias
 <div id='id-ref'/>
