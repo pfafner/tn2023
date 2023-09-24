@@ -76,18 +76,10 @@ En el curso se desarrollarán dos seminarios, los cuales se indicarán más adel
   1        | 03.10.2023   | Burton, sección 15.2 -- Fracciones continuas <br/> Páginas 306-311 <br/> Hasta el Teorema 15.2, Ejemplos
   2        | 05.10.2023   | Burton, sección 15.2 -- Fracciones continuas <br/> Páginas 311-317 <br/> Teoremas 15.3 y 15.4 
   3        | 06.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 319-324 <br/> Teoremas 15.5, 15.6 y Corolario 
+  4        | 06.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 324-328 <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 
+  5        | 10.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 330-332 <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos 
+  6        | 12.10.2023   | Burton, sección 15.4 -- Fracciones de Farey <br/> Páginas 334-337 <br/> 
   
-
-4. Burton 15.3, Fracciones continuas infinitas		06.10.2023
-   Páginas 324-328
-   Teoremas 15.7, Ejemplos 15.5 y 15.6
-
-5. Burton 15.3, Fracciones continuas infinitas		10.10.2023
-   Páginas 330-332
-   Lema, Teoremas 15.8 y 15.9, Ejemplos
-
-6. Burton 15.4, Fracciones de Farey					12.10.2023
-   Páginas 334-337
 
 7. Ecuaciones Diofantinas I: Ecuación de Legendre	13.10.2023
    Sumas de Cuadrados.
