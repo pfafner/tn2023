@@ -71,11 +71,35 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 En el curso se desarrollarán dos seminarios, los cuales se indicarán más adelante.
 
-  **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
-  -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
-  1        | 21.08.2023   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 25-29 septiembre.**
-  2        | 27.09.2023   | Presentación y revisión del proyecto.
-  3        | 29.09.2023   | Entrega del reporte final.
+  **No.**  | **Fecha**    | **Tópicos**                                                         | **Recursos**
+  -------- | ------------ | ------------------------------------------------------------------- |  ------------------------------
+  1        | 03.10.2023   | Burton, sección 15.2 -- Fracciones continuas <br/> Páginas 306-311 <br/> Hasta el Teorema 15.2, Ejemplos
+  2        | 05.10.2023   | Burton, sección 15.2 -- Fracciones continuas <br/> Páginas 311-317 <br/> Teoremas 15.3 y 15.4 
+  3        | 06.10.2023   | Burton, sección 15.3 -- Fracciones continuas infinitas <br/> Páginas 319-324 <br/> Teoremas 15.5, 15.6 y Corolario 
+  
+
+4. Burton 15.3, Fracciones continuas infinitas		06.10.2023
+   Páginas 324-328
+   Teoremas 15.7, Ejemplos 15.5 y 15.6
+
+5. Burton 15.3, Fracciones continuas infinitas		10.10.2023
+   Páginas 330-332
+   Lema, Teoremas 15.8 y 15.9, Ejemplos
+
+6. Burton 15.4, Fracciones de Farey					12.10.2023
+   Páginas 334-337
+
+7. Ecuaciones Diofantinas I: Ecuación de Legendre	13.10.2023
+   Sumas de Cuadrados.
+   Diapositivas.
+
+8. Ecuaciones Diofantinas II: Ecuación de Pell		17.10.2023
+   Sumas de Cuadrados.
+   Stillwell, capítulo 5
+
+9. Ecuaciones Diofantinas III: Sumas de Cuadrados	19.10.2023
+   Problema de Waring
+   Stillwell, capítulo 8
 
   
 # Referencias
