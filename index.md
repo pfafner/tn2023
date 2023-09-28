@@ -75,15 +75,15 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
   **No.**  | **Fecha**    | **Expositor** | **Tópicos**                                          | **Recursos**
   -------- | ------------ | ------------- | ---------------------------------------------------- |  ------------------------------
-  1        | 03.10.2023   | Guillermo Furlán | Fracciones continuas <br/> Hasta el Teorema 15.2, Ejemplos | Burton, sección 15.2 <br/> Páginas 306-311 
-  2        | 05.10.2023   | | Fracciones continuas <br/> Teoremas 15.3 y 15.4 | Burton, sección 15.2 <br/> Páginas 311-317 
-  3        | 06.10.2023   | Stefan Quintana | Fracciones continuas infinitas <br/> Teoremas 15.5, 15.6 y Corolario | Burton, sección 15.3 <br/> Páginas 319-324 
-  4        | 06.10.2023   | | Fracciones continuas infinitas <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 | Burton, sección 15.3 <br/> Páginas 324-328 
-  5        | 10.10.2023   | | Fracciones continuas infinitas <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos | Burton, sección 15.3 <br/> Páginas 330-332   
-  6        | 12.10.2023   | Sofía Escobar | Fracciones de Farey <br/> Toda la sección | Burton, sección 15.4 <br/> Páginas 334-337 
-  7        | 13.10.2023   | | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> 
-  8        | 17.10.2023   | | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/>  
-  9        | 19.10.2023   | | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> 
+  1        | 03.10.2023   | Guillermo Furlán | Fracciones continuas <br/> Hasta el Teorema 15.2, Ejemplos | Burton, sección 15.2 <br/> Páginas 306-311 <br/> [Aula 24a](aulas/Aula24a.pdf){:target="_blank"}
+  2        | 05.10.2023   | | Fracciones continuas <br/> Teoremas 15.3 y 15.4 | Burton, sección 15.2 <br/> Páginas 311-317 <br/> [Aula 24a](aulas/Aula24a.pdf){:target="_blank"}
+  3        | 06.10.2023   | Stefan Quintana | Fracciones continuas infinitas <br/> Teoremas 15.5, 15.6 y Corolario | Burton, sección 15.3 <br/> Páginas 319-324 <br/> [Aula 24b](aulas/Aula24b.pdf){:target="_blank"}
+  4        | 06.10.2023   | | Fracciones continuas infinitas <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 | Burton, sección 15.3 <br/> Páginas 324-328 <br/> [Aula 24b](aulas/Aula24b.pdf){:target="_blank"}
+  5        | 10.10.2023   | | Fracciones continuas infinitas <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos | Burton, sección 15.3 <br/> Páginas 330-332 <br/> [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}  
+  6        | 12.10.2023   | Sofía Escobar | Fracciones de Farey <br/> Toda la sección | Burton, sección 15.4 <br/> Páginas 334-337 <br/> [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}
+  7        | 13.10.2023   | | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> [Aula 25a](aulas/Aula25a.pdf){:target="_blank"}
+  8        | 17.10.2023   | | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> [Aula 25b](aulas/Aula25b.pdf){:target="_blank"} 
+  9        | 19.10.2023   | | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> [Aula 25c](aulas/Aula25c.pdf){:target="_blank"}
   
   
 # Referencias
