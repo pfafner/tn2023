@@ -63,9 +63,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   23      | 05.09.2023   | Congruencias cuadráticas. Símbolo de Legendre. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Burton, secciones 9.1 y 9.2. 
   24      | 07.09.2023   | Lema de Gauss. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Burton, sección 9.3.  
   25      | 19.09.2023   | Ley de reciprocidad cuadrática. <br/>| Burton, sección 9.3.  
-  26      | 21.09.2023   | Solución de congruencias cuadráticas. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Burton, sección 9.3.    27      | 22.09.2023   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6.
+  26      | 21.09.2023   | Solución de congruencias cuadráticas. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Burton, sección 9.3.    27      | 22.09.2023   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6. 
   28      | 26.09.2023   | Símbolo de Jacobi. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6.
-  29       |              | 
+  29      |              | 
 
 
 # Seminarios
@@ -81,9 +81,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   4        | 06.10.2023   | | Fracciones continuas infinitas <br/> Teoremas 15.7, Ejemplos 15.5 y 15.6 | Burton, sección 15.3, pp 324-328 <br/> Niven-Zuckerman, sec. 7.3 <br/> [Aula 24b](aulas/Aula24b.pdf){:target="_blank"}
   5        | 10.10.2023   | | Fracciones continuas infinitas <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos | Burton, sección 15.3, pp 330-332 <br/> Niven-Zuckerman, sec. 7.3 <br/> [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}  
   6        | 12.10.2023   | Sofía Escobar | Fracciones de Farey <br/> Toda la sección | Burton, sección 15.4, pp 334-337 <br/> Niven-Zuckerman, Cap. 7 <br/> [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}
-  7        | 13.10.2023   | | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> [Aula 25a](aulas/Aula25a.pdf){:target="_blank"}
-  8        | 17.10.2023   | | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> [Aula 25b](aulas/Aula25b.pdf){:target="_blank"} 
-  9        | 19.10.2023   | | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> [Aula 25c](aulas/Aula25c.pdf){:target="_blank"}
+  7        | 13.10.2023   | | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> Niven-Zuckerman, sec. 5.5 <br/> [Aula 25a](aulas/Aula25a.pdf){:target="_blank"}
+  8        | 17.10.2023   | | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> Niven-Zuckerman, sec. 7.8 <br/> [Aula 25b](aulas/Aula25b.pdf){:target="_blank"} 
+  9        | 19.10.2023   | | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> Stein-Shakrachi <br/> [Aula 25c](aulas/Aula25c.pdf){:target="_blank"}
   
   
 # Referencias
