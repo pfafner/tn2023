@@ -82,7 +82,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 10.10.2023   | | Fracciones continuas infinitas <br/> Lema, Teoremas 15.8 y 15.9, Ejemplos | Burton, sección 15.3, pp 330-332 <br/> Niven-Zuckerman, sec. 7.3 <br/> [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}  
 12.10.2023   | Sofía Escobar | Fracciones de Farey <br/> Toda la sección | Burton, sección 15.4, pp 334-337 <br/> Niven-Zuckerman, Cap. 7 <br/> [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}
 13.10.2023   | | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> Niven-Zuckerman, sec. 5.5 <br/> [Aula 25a](aulas/Aula25a.pdf){:target="_blank"}
-17.10.2023   | | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> Niven-Zuckerman, sec. 7.8 <br/> [Aula 25b](aulas/Aula25b.pdf){:target="_blank"} 
+17.10.2023   | Joshua Chicoj | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> Niven-Zuckerman, sec. 7.8 <br/> [Aula 25b](aulas/Aula25b.pdf){:target="_blank"} 
 19.10.2023   | | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> Stein-Shakarchi, Vol 2, Cap. 10 <br/> [Aula 25c](aulas/Aula25c.pdf){:target="_blank"}
   
   
