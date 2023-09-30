@@ -66,7 +66,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   26      | 21.09.2023   | Solución de congruencias cuadráticas. [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Burton, sección 9.3. 
   27      | 22.09.2023   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6. 
   28      | 26.09.2023   | Símbolo de Jacobi. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6.
-  29      |              | 
+  29      | 28.09.2023   | El Método rho de Pollard. | Niven-Zuckerman, sección 2.4.
+  
 
 
 # Seminarios
