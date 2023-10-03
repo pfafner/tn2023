@@ -69,6 +69,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   29      | 28.09.2023   | El Método rho de Pollard. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.4.
   30      | 29.09.2023   | Orden y raíces primitivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Burton, capítulo 8.
   31      | 29.09.2023   | Aplicaciones a criptografía. <br/> [Aula 24a](aulas/Aula24a.pdf){:target="_blank"} [Aula 24b](aulas/Aula24b.pdf){:target="_blank"} [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}| 
+  L5      | 02.10.2023   |  | [Lista 05](listas/lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: Lunes 23 de octubre.**
 
 
 # Seminarios
