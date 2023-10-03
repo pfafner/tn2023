@@ -67,7 +67,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   27      | 22.09.2023   | Congruencias de orden superior. Lema de Hensel. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6. 
   28      | 26.09.2023   | Símbolo de Jacobi. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.6.
   29      | 28.09.2023   | El Método rho de Pollard. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.4.
-  30      | 29.09.2023   | Orden y raíces primitivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Niven-Zuckerman, sección 2.4.
+  30      | 29.09.2023   | Orden y raíces primitivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Burton, capítulo 8.
   31      | 29.09.2023   | Aplicaciones a criptografía. <br/> [Aula 24a](aulas/Aula24a.pdf){:target="_blank"} [Aula 24b](aulas/Aula24b.pdf){:target="_blank"} [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}| 
 
 
