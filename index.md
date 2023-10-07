@@ -70,10 +70,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   30      | 29.09.2023   | Orden y raíces primitivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Burton, capítulo 8.
   31      | 29.09.2023   | Aplicaciones a criptografía. <br/> [Aula 24a](aulas/Aula24a.pdf){:target="_blank"} [Aula 24b](aulas/Aula24b.pdf){:target="_blank"} [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}| 
   L5      | 02.10.2023   |  | [Lista 05](listas/lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: Lunes 23 de octubre.**
-  32      | 05.10.2023   | Fracciones continuas finitas. <br/>  | Burton, capítulo 15.
+  32      | 03.10.2023   | Fracciones continuas finitas. <br/>  | Burton, capítulo 15.
   33      | 05.10.2023   | Fracciones continuas. Propiedades de convergentes. <br/> [Presentación Alejandro](seminario1/Alejandro.pdf){:target="_blank"} | Burton, capítulo 15.
-  34      | 05.10.2023   | Fracciones continuas infinitas.<br/> [Presentación Alejandro](seminario1/Alejandro.pdf){:target="_blank"} | Burton, capítulo 15.
-  34      | 05.10.2023   | Fracciones continuas finitas. Convergentes. <br/> [Presentación Alejandro](seminario1/Alejandro.pdf){:target="_blank"} | Burton, capítulo 15.
+  34      | 06.10.2023   | Fracciones continuas finitas. Convergentes. [Presentación Rudik](seminario1/Rudik.pdf){:target="_blank"} | Burton, capítulo 15.
   
 
 # Seminarios
