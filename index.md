@@ -77,6 +77,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   36      | 10.10.2023   | Buenas aproximaciones. Teorema de optimalidad.  | Burton, capítulo 15.
   37      | 12.10.2023   | Fracciones de Farey. <br/>  | Burton, capítulo 15.
   38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. |  
+  39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. |  
   
 
 # Seminarios
