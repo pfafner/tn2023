@@ -70,14 +70,16 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   30      | 29.09.2023   | Orden y raíces primitivas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Burton, capítulo 8.
   31      | 29.09.2023   | Aplicaciones a criptografía. <br/> [Aula 24a](aulas/Aula24a.pdf){:target="_blank"} [Aula 24b](aulas/Aula24b.pdf){:target="_blank"} [Aula 24c](aulas/Aula24c.pdf){:target="_blank"}| 
   L5      | 02.10.2023   |  | [Lista 05](listas/lista05.pdf){:target="_blank"} <br/> **Fecha de Entrega: Lunes 23 de octubre.**
-  32      | 03.10.2023   | Fracciones continuas finitas. Convergentes. <br/>  | Burton, capítulo 15.
+  32      | 03.10.2023   | Fracciones continuas finitas. Convergentes. [Presentación Guillermo](seminario1/Guillermo.pdf){:target="_blank"}  | Burton, capítulo 15.
   33      | 05.10.2023   | Fracciones continuas. Fórmula de recurrencia. [Presentación Alejandro](seminario1/Alejandro.pdf){:target="_blank"} | Burton, capítulo 15.
-  34      | 06.10.2023   | Fracciones continuas infinitas. [Presentación Rudik](seminario1/Rudik.pdf){:target="_blank"} | Burton, capítulo 15.
-  35      | 06.10.2023   | Fracciones continuas infinitas. Cota de aproximación. | Burton, capítulo 15.
-  36      | 10.10.2023   | Buenas aproximaciones. Teorema de optimalidad.  | Burton, capítulo 15.
+  34      | 06.10.2023   | Fracciones continuas infinitas. [Presentación Stefan](seminario1/Stefan.pdf){:target="_blank"} | Burton, capítulo 15.
+  35      | 06.10.2023   | Fracciones continuas infinitas. Cota de aproximación. [Presentación Rudik](seminario1/Rudik.pdf){:target="_blank"} | Burton, capítulo 15.
+  36      | 10.10.2023   | Buenas aproximaciones. Teorema de optimalidad. [Presentación Wilfredo](seminario1/Wilfredo.pdf){:target="_blank"} | Burton, capítulo 15.
   37      | 12.10.2023   | Fracciones de Farey. <br/> [Presentación Sofía](seminario1/Sofia.pdf){:target="_blank"} | Burton, capítulo 15.
   38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. |  
-  39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. |  
+  39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. [Presentación Majo](seminario1/MariaJose.pdf){:target="_blank"} | 
+  40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | 
+  
   
 
 # Seminarios
