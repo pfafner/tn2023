@@ -79,8 +79,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. |  
   39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. [Presentación Majo](seminario1/MariaJose.pdf){:target="_blank"} | 
   40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | 
-  
-  
+  41      | 24.10.2023   |   | 
+    
 
 # Seminarios
 <div id='id-seminarios'/>
