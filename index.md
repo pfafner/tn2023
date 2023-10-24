@@ -100,6 +100,17 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 17.10.2023   | María José Gil | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> Niven-Zuckerman, sec. 7.8 <br/> [Aula 26b](aulas/Aula26b.pdf){:target="_blank"} 
 19.10.2023   | Joshua Chicoj | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> Stein-Shakarchi, Vol 2, Cap. 10 <br/> [Aula 26c](aulas/Aula26c.pdf){:target="_blank"}
   
+
+## Temas para el seminario 2:
+
+**No.**  | **Fecha**    | **Tópicos**                                  | **Recursos**
+-------- | ------------ | -------------------------------------------- |  -------------------------------------
+ 1       | 19.10.2023   | Seminario 2 - *Tema libre*.                  | [Temas](seminario2/Seminario2.pdf){:target="_blank"} <br/> 
+ 2       | 02.11.2023   | Fecha límite para elegir tema.               | 
+ 3       | 12.11.2023   | Entrega de la presentación (borrador).       | 
+ 4       | 16 al 23.11.2023  | Presentación de seminarios.             | 
+ 5       | 26.11.2023   | Entrega de código y presentación final.      | 
+
   
 # Referencias
 <div id='id-ref'/>
