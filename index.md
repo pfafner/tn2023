@@ -111,8 +111,14 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  4       | 16 al 23.11.2023  | Presentación de seminarios.             | 
  5       | 26.11.2023   | Entrega de código y presentación final.      | 
 
-  
-# Referencias
+### Seminario 2 -- Temas ya elegidos
+
+**No.**  | Expositores             | **Tópico**
+-------- | ----------------------- |  -------------------------------------
+ 24      | Rudik Rompich           | Software y lenguajes para cálculo en Teoría de Números          
+ 7       | Sofía Escobar           | Otros test de primalidad (AKS, Baillie-PSW, ...)
+
+ 
 <div id='id-ref'/>
 
 ### Textos:
