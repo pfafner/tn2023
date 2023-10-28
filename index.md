@@ -79,8 +79,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. | Niven-Zuckerman, sec. 7.8. 
   39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. [Presentación Majo](seminario1/MariaJose.pdf){:target="_blank"} | Cap. 5 Stillwell.
   40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | Cap. 8 Stillwell.
-  41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=3.  |  Cap. 6 y 7 Stillwell.
-
+  41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=4.  |  Cap. 6 y 7 Stillwell.
+  42      | 27.10.2023   | La ecuación de Fermat, caso n=3.  |  Cap. 6 y 7 Stillwell.
     
 
 # Seminarios
