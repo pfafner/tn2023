@@ -80,7 +80,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. [Presentación Majo](seminario1/MariaJose.pdf){:target="_blank"} | Cap. 5 Stillwell.
   40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | Cap. 8 Stillwell.
   41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=4. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
-  42      | 27.10.2023   | La ecuación de Fermat, caso n=3.  |  Cap. 6 y 7 Stillwell.
+  42      | 27.10.2023   | La ecuación de Fermat, caso n=3. [Aula 28](aulas/Aula28.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
     
 
 # Seminarios
