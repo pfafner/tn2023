@@ -79,7 +79,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. | Niven-Zuckerman, sec. 7.8. 
   39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. [Presentación Majo](seminario1/MariaJose.pdf){:target="_blank"} | Cap. 5 Stillwell.
   40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | Cap. 8 Stillwell.
-  41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=4.  |  Cap. 6 y 7 Stillwell.
+  41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=4. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
   42      | 27.10.2023   | La ecuación de Fermat, caso n=3.  |  Cap. 6 y 7 Stillwell.
     
 
@@ -98,7 +98,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 12.10.2023   | Sofía Escobar | Fracciones de Farey <br/> Toda la sección | Burton, sección 15.4, pp 334-337 <br/> Niven-Zuckerman, Cap. 7 <br/> [Aula 25c](aulas/Aula25c.pdf){:target="_blank"}
 13.10.2023   | Nicolle Escobar | Ecuaciones Diofantinas I <br/> Ecuación de Legendre | Moreira et al. <br/> Niven-Zuckerman, sec. 5.5 <br/> [Aula 26a](aulas/Aula26a.pdf){:target="_blank"}
 17.10.2023   | María José Gil | Ecuaciones Diofantinas II <br/> Ecuación de Pell | Stillwell, capítulo 5 <br/> Niven-Zuckerman, sec. 7.8 <br/> [Aula 26b](aulas/Aula26b.pdf){:target="_blank"} 
-19.10.2023   | Joshua Chicoj | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> Stein-Shakarchi, Vol 2, Cap. 10 <br/> [Aula 26c](aulas/Aula26c.pdf){:target="_blank"}
+19.10.2023   | Joshua Chicoj | Ecuaciones Diofantinas III <br/> Sumas de Cuadrados | Stillwell, capítulo 8 <br/> Stein-Shakarchi, Vol 2, Cap. 10 <br/> [Aula 26c](aulas/Aula26c.pdf){:target="_blank"} 
   
 
 ## Temas para el seminario 2:
