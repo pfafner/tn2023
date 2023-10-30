@@ -115,9 +115,15 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | Expositores             | **Tópico**
 -------- | ----------------------- |  -------------------------------------
- 24      | Rudik Rompich           | Software y lenguajes para cálculo en Teoría de Números          
- 7       | Sofía Escobar           | Otros test de primalidad (AKS, Baillie-PSW, ...)
-
+ 20      | Rudik Rompich           | Software y lenguajes para cálculo en Teoría de Números          
+ 7       | Sofía Escobar           | Test de primalidad de Pocklington
+ 2       | Guillermo Furlán        | Los problemas de Landau 
+ 17      | Stefan Quintana         | La hipótesis de Riemann
+ 8       | Joshua Chicoj           | Aplicaciones en criptografía  
+ 15      | Nicolle Escobar         | El último teorema de Fermat 
+ 10      | Maria José Gil          | El algoritmo de Shor
+ 19      | Alejandro Pallais       | La conjetura *Monstruous Moonshine* 
+ 
  
 <div id='id-ref'/>
 
