@@ -76,7 +76,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   35      | 06.10.2023   | Fracciones continuas infinitas. Cota de aproximación. [Presentación Rudik](seminario1/Rudik.pdf){:target="_blank"} | Burton, capítulo 15.
   36      | 10.10.2023   | Buenas aproximaciones. Teorema de optimalidad. [Presentación Wilfredo](seminario1/Wilfredo.pdf){:target="_blank"} | Burton, capítulo 15.
   37      | 12.10.2023   | Fracciones de Farey. <br/> [Presentación Sofía](seminario1/Sofia.pdf){:target="_blank"} | Burton, capítulo 15.
-  38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. | Niven-Zuckerman, sec. 7.8. 
+  38      | 13.10.2023   | Ecuaciones Diofantinas I: La ecuación de Legendre. [Presentación Nicolle](seminario1/Nicolle.pdf){:target="_blank"}| Niven-Zuckerman, sec. 7.8. 
   39      | 17.10.2023   | Ecuaciones Diofantinas II: La ecuación de Pell. [Presentación Majo](seminario1/MariaJose.pdf){:target="_blank"} | Cap. 5 Stillwell.
   40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | Cap. 8 Stillwell.
   41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=4. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
