@@ -123,6 +123,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  15      | Nicolle Escobar         | El último teorema de Fermat 
  10      | Maria José Gil          | El algoritmo de Shor
  19      | Alejandro Pallais       | La conjetura *Monstruous Moonshine* 
+ .       | Wilfredo Gallegos       | El algoritmo de Karatsuba
  
  
 <div id='id-ref'/>
