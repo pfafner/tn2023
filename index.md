@@ -81,6 +81,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   40      | 19.10.2023   | Ecuaciones Diofantinas III: Sumas de Cuadrados. [Presentación Joshua](seminario1/Joshua.pdf){:target="_blank"} | Cap. 8 Stillwell.
   41      | 24.10.2023   | Descenso de Fermat. La ecuación de Fermat, caso n=4. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
   42      | 27.10.2023   | La ecuación de Fermat, caso n=3. [Aula 28](aulas/Aula28.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
+  43      | 31.10.2023   | Enteros algebraicos. Enteros gaussianos, enteros de Eisenstein. [Aula 29](aulas/Aula29.pdf){:target="_blank"} |  Ribemboim.
     
 
 # Seminarios
