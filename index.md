@@ -85,7 +85,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L6      | 02.11.2023   |  | [Lista 06](listas/lista06.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 24 de noviembre.** 
   44      | 02.11.2023   | Funciones Aritméticas. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Apostol, Cap. 1.
   45      | 03.11.2023   | La Fórmula de inversión de Möbius. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Apostol, Cap. 1.
-
+  46      | 07.11.2023   | Promedios de funciones aritméticas. Notación asintótica. |  
   
 # Seminarios
 <div id='id-seminarios'/>
