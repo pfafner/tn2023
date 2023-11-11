@@ -120,17 +120,17 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Seminario 2 -- Temas ya elegidos
 
-**No.**  | Expositores             | **Tópico**
--------- | ----------------------- |  -------------------------------------
- 20      | Rudik Rompich           | Software y lenguajes para cálculo en Teoría de Números          
- 7       | Sofía Escobar           | Test de primalidad de Pocklington
- 2       | Guillermo Furlán        | Los problemas de Landau 
- 17      | Stefan Quintana         | La hipótesis de Riemann
- 8       | Joshua Chicoj           | Aplicaciones en criptografía  
- 15      | Nicolle Escobar         | El último teorema de Fermat 
- 10      | Maria José Gil          | El algoritmo de Shor
- 19      | Alejandro Pallais       | La conjetura *Monstruous Moonshine* 
- .       | Wilfredo Gallegos       | El algoritmo de Karatsuba
+**No.**  | Fecha      | Expositor              | **Tópico**
+-------- | ---------- | ---------------------- |  -------------------------------------
+ 20      | 22.11.2023 | Rudik Rompich           | Software y lenguajes para cálculo en Teoría de Números          
+ 7       | 22.11.2023 | Sofía Escobar           | Test de primalidad de Pocklington
+ 2       | 22.11.2023 | Guillermo Furlán        | Los problemas de Landau 
+ 17      | 22.11.2023 | Stefan Quintana         | La hipótesis de Riemann
+ 8       | 22.11.2023 | Joshua Chicoj           | Aplicaciones en criptografía  
+ 15      | 22.11.2023 | Nicolle Escobar         | El último teorema de Fermat 
+ 10      | 22.11.2023 | Maria José Gil          | El algoritmo de Shor
+ 19      | 22.11.2023 | Alejandro Pallais       | La conjetura *Monstruous Moonshine* 
+ .       | 22.11.2023 | Wilfredo Gallegos       | El algoritmo de Karatsuba
  
  
 <div id='id-ref'/>
