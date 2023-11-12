@@ -87,8 +87,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   45      | 03.11.2023   | La Fórmula de inversión de Möbius. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Apostol, Cap. 1.
   46      | 07.11.2023   | Promedios de funciones aritméticas. Notación asintótica. |  
   47      | 09.11.2023   | Fórmula de sumas de Euler.  |  
-  47      | 09.11.2023   | Estimativas asintóticas. Densidad de pares coprimos.  |  
-  
+  48      | 09.11.2023   | Estimativas asintóticas. Densidad de pares coprimos.  |  
+  49      |              |  |  
   
 # Seminarios
 <div id='id-seminarios'/>
