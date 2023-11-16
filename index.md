@@ -83,13 +83,13 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   42      | 27.10.2023   | La ecuación de Fermat, caso n=3. [Aula 28](aulas/Aula28.pdf){:target="_blank"} |  Cap. 6 y 7 Stillwell.
   43      | 31.10.2023   | Enteros algebraicos. Enteros gaussianos, enteros de Eisenstein. [Aula 29](aulas/Aula29.pdf){:target="_blank"} |  Ribemboim.
   L6      | 02.11.2023   |  | [Lista 06](listas/lista06.pdf){:target="_blank"} <br/> **Fecha de Entrega: Viernes 24 de noviembre.** 
-  44      | 02.11.2023   | Funciones Aritméticas. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Apostol, Cap. 1.
-  45      | 03.11.2023   | La Fórmula de inversión de Möbius. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Apostol, Cap. 1.
-  46      | 07.11.2023   | Promedios de funciones aritméticas. Notación asintótica. [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Apostol, Cap. 2.
-  47      | 09.11.2023   | Fórmula de sumas de Euler. [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Apostol, Cap. 2.
-  48      | 10.11.2023   | Estimativas asintóticas. Densidad de pares coprimos. |  
-  49      | 14.11.2023   | Estimativas sobre primos: Teorema de Chebyshev, Postulado de Bertrand. [Aula 34](aulas/Aula34.pdf){:target="_blank"} | Apostol, Cap. 3.  
-  50      | 14.11.2023   | El Teorema de los números primos. <br/> [Aula 35](aulas/Aula35.pdf){:target="_blank"} | Apostol, Cap. 3.
+  44      | 02.11.2023   | Funciones Aritméticas. <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Apostol, Cap. 2.
+  45      | 03.11.2023   | La Fórmula de inversión de Möbius. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Apostol, Cap. 2.
+  46      | 07.11.2023   | Promedios de funciones aritméticas. Notación asintótica. | Apostol, Cap. 3.
+  47      | 09.11.2023   | Fórmula de sumas de Euler. [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Apostol, Cap. 3.
+  48      | 10.11.2023   | Estimativas asintóticas. Densidad de pares coprimos. | Apostol, Cap. 3. 
+  49      | 14.11.2023   | Estimativas sobre primos: Teorema de Chebyshev, Postulado de Bertrand. [Aula 34](aulas/Aula34.pdf){:target="_blank"} | Apostol, Cap. 4.  
+  50      | 14.11.2023   | El Teorema de los números primos. <br/> [Aula 35](aulas/Aula35.pdf){:target="_blank"} | Apostol, Cap. 4.
   
   
 # Seminarios
