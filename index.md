@@ -90,6 +90,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   48      | 10.11.2023   | Estimativas asintóticas. Densidad de pares coprimos. | Apostol, Cap. 3. 
   49      | 14.11.2023   | Estimativas sobre primos: Teorema de Chebyshev, Postulado de Bertrand. [Aula 34](aulas/Aula34.pdf){:target="_blank"} | Apostol, Cap. 4.  
   50      | 14.11.2023   | El Teorema de los números primos. <br/> [Aula 35](aulas/Aula35.pdf){:target="_blank"} | Apostol, Cap. 4.
+  51      | 17.11.2021   | Presentación de seminarios. |   
   
   
 # Seminarios
