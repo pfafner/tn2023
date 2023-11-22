@@ -125,13 +125,13 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 **No.**  | Fecha      | Expositor              | **Tópico**
 -------- | ---------- | ---------------------- |  -------------------------------------
- 1       | 16.11.2023 | Stefan Quintana        | La hipótesis de Riemann
- 2       | 17.11.2023 | Sofía Escobar          | Test de primalidad de Pocklington
+ 1       | 16.11.2023 | Stefan Quintana        | La hipótesis de Riemann 
+ 2       | 17.11.2023 | Sofía Escobar          | Test de primalidad de Pocklington [Presentación](seminario2/Pocklington.pdf){:target="_blank"}
  3       | 17.11.2023 | Wilfredo Gallegos      | El algoritmo de Karatsuba
- 4       | 17.11.2023 | Nicolle Escobar        | El último teorema de Fermat 
+ 4       | 17.11.2023 | Nicolle Escobar        | El último teorema de Fermat [Presentación](seminario2/Fermat.pdf){:target="_blank"}
  5       | 21.11.2023 | Joshua Chicoj          | Aplicaciones en criptografía  
  6       | 23.11.2023 | Guillermo Furlán       | Los problemas de Landau 
- 7       | 24.11.2023 | Rudik Rompich          | Software y lenguajes para cálculo en Teoría de Números          
+ 7       | 24.11.2023 | Rudik Rompich          | Software en Teoría de Números          
  8       | 24.11.2023 | Maria José Gil         | El algoritmo de Shor
  9       | 24.11.2023 | Alejandro Pallais      | La conjetura *Monstruous Moonshine* 
  
