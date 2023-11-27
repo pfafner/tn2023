@@ -90,7 +90,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   48      | 10.11.2023   | Estimativas asintóticas. Densidad de pares coprimos. | Apostol, Cap. 3. 
   49      | 14.11.2023   | Estimativas sobre primos: Teorema de Chebyshev, Postulado de Bertrand. [Aula 34](aulas/Aula34.pdf){:target="_blank"} | Apostol, Cap. 4.  
   50      | 14.11.2023   | El Teorema de los números primos. <br/> [Aula 35](aulas/Aula35.pdf){:target="_blank"} | Apostol, Cap. 4.
-  51      | 17.11.2021   | Presentación de seminarios. |   
+  51      | 17.11.2023   | Presentación de seminarios. |   
   
   
 # Seminarios
@@ -131,9 +131,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  4       | 17.11.2023 | Nicolle Escobar        | El último teorema de Fermat <br/> [Presentación](seminario2/Fermat.pdf){:target="_blank"}
  5       | 21.11.2023 | Joshua Chicoj          | Aplicaciones en criptografía <br/> [Presentación](seminario2/Criptografia.pdf){:target="_blank"} 
  6       | 23.11.2023 | Guillermo Furlán       | Los problemas de Landau <br/> [Presentación](seminario2/Landau.pdf){:target="_blank"}
- 7       | 24.11.2023 | Rudik Rompich          | Software en Teoría de Números          
+ 7       | 24.11.2023 | Rudik Rompich          | Software en Teoría de Números <br/> [Presentación](seminario2/Software.pdf){:target="_blank"}
  8       | 24.11.2023 | Maria José Gil         | El algoritmo de Shor
- 9       | 24.11.2023 | Alejandro Pallais      | La conjetura *Monstruous Moonshine* 
+ 9       | 24.11.2023 | Alejandro Pallais      | La conjetura *Monstruous Moonshine* <br/> [Presentación](seminario2/Moonshine.pdf){:target="_blank"}
  
  
 <div id='id-ref'/>
