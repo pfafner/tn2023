@@ -132,7 +132,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
  5       | 21.11.2023 | Joshua Chicoj          | Aplicaciones en criptografía <br/> [Presentación](seminario2/Criptografia.pdf){:target="_blank"} 
  6       | 23.11.2023 | Guillermo Furlán       | Los problemas de Landau <br/> [Presentación](seminario2/Landau.pdf){:target="_blank"}
  7       | 24.11.2023 | Rudik Rompich          | Software en Teoría de Números <br/> [Presentación](seminario2/Software.pdf){:target="_blank"}
- 8       | 24.11.2023 | Maria José Gil         | El algoritmo de Shor
+ 8       | 24.11.2023 | Maria José Gil         | El algoritmo de Shor <br/> [Presentación](seminario2/Shor.pdf){:target="_blank"} 
  9       | 24.11.2023 | Alejandro Pallais      | La conjetura *Monstruous Moonshine* <br/> [Presentación](seminario2/Moonshine.pdf){:target="_blank"}
  
  
